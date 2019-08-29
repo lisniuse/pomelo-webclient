@@ -1,0 +1,20 @@
+{
+  "name": "pomelo-webclient",
+  "version": "0.0.1",
+  "description": "Unofficial support library for pomelo's web client.",
+  "license": "MIT",
+  "homepage": "https://github.com/lisniuse/pomelo-webclient",
+  "repository": "https://github.com/lisniuse/pomelo-webclient",
+  "bugs": "https://github.com/lisniuse/pomelo-webclient/issues",
+  "keywords": [
+    "pomelo",
+    "web",
+    "socket",
+    "websocket",
+    "client"
+  ],
+  "authors": [
+    "Zhibin Chen <17560235@qq.com> (https://github.com/lisniuse)"
+  ],
+  "main": "index.js"
+}
